@@ -128,10 +128,7 @@ Todo/
 │   ├── package.json             # NPM dependencies and scripts
 │   └── vite.config.js           # Vite development configuration
 ├── .gitignore                   # Ignores venv, node_modules, pycache, db.sqlite3
-├── Antigravity_Prompt.md        # Original project prompt and guidelines
-├── IMPLEMENTATION.md            # Detailed technical implementation breakdown
-├── README.md                    # Project documentation (this file)
-└── TARGET.md                    # Learning objectives and functional targets
+└── README.md                    # Project documentation (this file)
 ```
 
 ---
